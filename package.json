@@ -43,7 +43,7 @@
     "history": "^3.2.1",
     "immutable": "^3.8.1",
     "is-docker": "^1.1.0",
-    "jquery": "3.4.0",
+    "jquery": "3.5.0",
     "jquery-ujs": "^1.2.2",
     "js-yaml": "^3.9.0",
     "karma-webpack": "^3.0.5",
